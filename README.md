@@ -14,4 +14,3 @@ OBJECTIVE
 •	Endpoint #3 should fetch the "id", and edit the data in property "name" to something else. Verify the response body and code are correct with assertions.
 •	Endpoint #4 then delete the created user in first step. Verify the status code is correct with assertions.
 •	Collection should be executable inside postman "Monitor", with all result are PASSED
-
